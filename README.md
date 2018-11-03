@@ -15,8 +15,9 @@ Download image type include: jpg，jpeg，png，JPEG
 run spy_img_baidu.py file
 
 Introduction:
-    When you run the spy_img_baidu.py file, input and output are required. The default of save_nums is 1200, you can change it. 
-    
+    When you run the spy_img_baidu.py file, input and output are required. 
+    The default of save_nums is 1200, you can change it. 
+
 Usage：
     1. cd in the root dir
         (cd ......)
